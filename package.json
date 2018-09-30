@@ -1,0 +1,9 @@
+{
+  "name": "sprite-tool",
+  "version": "1.0.0",
+  "description": "sprite-tool",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp.spritesmith": "^6.9.0"
+  }
+}
